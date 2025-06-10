@@ -1,1 +1,1 @@
-Proyecto creado en react native.
+Proyecto creado en react native aplicacion para inventario y carrito de compras, ocupa parte movil y web.

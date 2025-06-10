@@ -1,6 +1,6 @@
 import { StyleSheet } from "react-native";
 
-export const authStyles = StyleSheet.create({
+export const homeStyles = StyleSheet.create({
     container:{
         flex:1,
         padding:20,
@@ -10,5 +10,10 @@ export const authStyles = StyleSheet.create({
     input:{
         marginBottom: 16,
         backgroundColor: '#fff',
+    },
+    button:{
+        marginTop: 20,
+        backgroundColor: '#47596e',
+        borderRadius: 4,
     }
 })
